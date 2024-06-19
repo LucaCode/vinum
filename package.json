@@ -1,6 +1,6 @@
 {
   "name": "vinum",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "UNLICENSED",
   "description": "Lightweight version number parsing and comparison library.",
   "main": "dist/index.js",
